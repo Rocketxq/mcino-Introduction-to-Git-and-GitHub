@@ -1,1 +1,11 @@
+Command:
+curl https://api.github.com/repos/Rocketxq/mcino-Introduction-to-Git-and-GitHub
 
+Terminal Output:
+{
+  "full_name": "Rocketxq/mcino-Introduction-to-Git-and-GitHub",
+  "fork": true,
+  "parent": {
+    "full_name": "ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub"
+  }
+}
